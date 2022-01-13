@@ -11,8 +11,8 @@
           text-center
         "
       >
-        <p class="text-base lg:text-4xl font-bold text-slate-800">
-          The Future of Web Dev is here, Code like never before
+        <p class="text-base lg:text-4xl font-bold text-red-800">
+          The Future of Web Dev is here, Code like never before..
         </p>
       </div>
       <div
